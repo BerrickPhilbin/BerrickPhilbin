@@ -1,43 +1,45 @@
-# 🖥️ IT Portfolio – Berrick Philbin
+<h1>Hi, I'm Berrick, an aspiring <a href="https://linkedin.com/in/YOUR-LINK-HERE">IT Professional</a> ☺</h1>
 
-Hi! I’m **Berrick Philbin**, a 17-year-old aspiring IT professional currently studying through **CourseCareers**, where I’m learning the fundamentals of systems, networking, troubleshooting, and professional IT workflows. I have hands-on experience working with **virtual machines**, **small office network setups**, **ticketing systems**, and **basic scripting**.
-
-My goal is to build a strong foundation in IT support and system administration while continuing to grow through hands-on labs, documentation, and continuous learning.
-
----
-
-## 🛠️ Technical Skills
-- **Virtual Machines:** Creating, configuring, and managing Windows & Linux VMs  
-- **Networking:** DHCP, DNS, subnets, small office network design  
-- **Ticketing Systems:** User issue documentation, troubleshooting steps, resolutions  
-- **Operating Systems:** Windows 10/11, Ubuntu/Linux  
-- **Troubleshooting:** Hardware, software, and network issues  
-- **IT Documentation:** Procedures, diagrams, notes, and troubleshooting logs  
+I'm 17 years old and currently enrolled in the **Course Careers IT Program** by Josh Madakor.  
+I'm building real-world IT skills through hands-on labs, and using this portfolio to showcase my progress as I work toward my first IT role.
 
 ---
 
-## 📘 Skills I'm Developing
-- Strengthening Windows & Linux administration  
-- Learning Active Directory fundamentals  
-- Improving troubleshooting efficiency  
-- Building better IT documentation practices  
-- Advancing PowerShell & Bash scripting  
-- Increasing understanding of networking concepts  
-- Preparing for IT certifications (ITF+, A+)  
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](YOUR-LINK-HERE)
+  - [osTicket: Post-Installation Configuration](YOUR-LINK-HERE)
+  - [osTicket: Ticket Lifecycle Examples](YOUR-LINK-HERE)
+
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](YOUR-LINK-HERE)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](YOUR-LINK-HERE)
+
+- <b>Home Lab Projects</b>
+  - [Windows Server / Active Directory (One Piece Theme) — *Work in Progress*](YOUR-LINK-HERE)
+  - (Add more projects here as you complete them)
 
 ---
 
-## 🎯 Current Focus
-- Expanding my knowledge through labs and hands-on practice  
-- Building confidence in real troubleshooting workflows  
-- Continuing skill development through CourseCareers  
+<h2>📚 Current Learning:</h2>
+
+- Course Careers — IT Program  
+- Building hands-on experience in:
+  - Active Directory
+  - Networking (DNS, DHCP, VLANs)
+  - Virtualization (VMware / VirtualBox / Hyper-V)
+  - Linux basics
+  - Help Desk fundamentals
 
 ---
 
-## 📫 Contact
-Feel free to reach out or connect:
+<h2>🤳 Connect with me:</h2>
 
-**Email:** Berrick.Philbin.est08@gmail.com  
-**LinkedIn:** (https://www.linkedin.com/in/berrick-philbin-4a1407328)
+[<img align="left" alt="Berrick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Berrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Berrick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+[twitter]: https://twitter.com/YourLinkHere
+[instagram]: https://www.instagram.com/YourLinkHere
+[linkedin]: https://linkedin.com/in/YOUR-LINK-HERE
