@@ -8,7 +8,7 @@ I'm building real-world IT skills through hands-on labs, and using this portfoli
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](YOUR-LINK-HERE)
+  - [osTicket: Prerequisites and Installation](https://github.com/BerrickPhilbin/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](YOUR-LINK-HERE)
   - [osTicket: Ticket Lifecycle Examples](YOUR-LINK-HERE)
 
