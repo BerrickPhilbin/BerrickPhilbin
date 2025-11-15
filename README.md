@@ -10,7 +10,7 @@ I'm building real-world IT skills through hands-on labs, and using this portfoli
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/BerrickPhilbin/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](YOUR-LINK-HERE)
-  - [osTicket: Ticket Lifecycle Examples](YOUR-LINK-HERE)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/BerrickPhilbin/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](YOUR-LINK-HERE)
