@@ -12,13 +12,10 @@ I'm building real-world IT skills through hands-on labs, and using this portfoli
   - [osTicket: Post-Installation Configuration](https://github.com/BerrickPhilbin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BerrickPhilbin/ticket-lifecycle)
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](YOUR-LINK-HERE)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](YOUR-LINK-HERE)
 
 - <b>Home Lab Projects</b>
-  - [Windows Server / Active Directory (One Piece Theme) — *set up guide*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab/tree/main)
-  - [Windows Server / Active Directory (One Piece Theme) — *finished product*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab-finished-project)
+  - [Windows Server / Active Directory (One Piece Theme) — *Set Up Guide*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab/tree/main)
+  - [Windows Server / Active Directory (One Piece Theme) — *Finished Product*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab-finished-project)
 
 ---
 
