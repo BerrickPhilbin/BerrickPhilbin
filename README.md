@@ -13,9 +13,9 @@ I'm building real-world IT skills through hands-on labs, and using this portfoli
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BerrickPhilbin/ticket-lifecycle)
 
 
-- <b>Home Lab Projects</b>
-  - [Windows Server / Active Directory (One Piece Theme) — *Set Up Guide*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab/tree/main)
-  - [Windows Server / Active Directory (One Piece Theme) — *Finished Product*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab-finished-project)
+- <b>Windows Server And Active Directory</b>
+  - [Active Directory: Set Up Guide (One Piece Theme)](https://github.com/BerrickPhilbin/One-piece-active-directory-lab/tree/main)
+  - [Active Directory: Finished Product (One Piece Theme)](https://github.com/BerrickPhilbin/One-piece-active-directory-lab-finished-project)
 
 ---
 
