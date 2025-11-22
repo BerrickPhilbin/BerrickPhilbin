@@ -17,7 +17,7 @@ I'm building real-world IT skills through hands-on labs, and using this portfoli
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](YOUR-LINK-HERE)
 
 - <b>Home Lab Projects</b>
-  - [Windows Server / Active Directory (One Piece Theme) — *Work in Progress*](YOUR-LINK-HERE)
+  - [Windows Server / Active Directory (One Piece Theme) — *Work in Progress*](https://github.com/BerrickPhilbin/One-piece-active-directory-lab/tree/main)
   - (Add more projects here as you complete them)
 
 ---
